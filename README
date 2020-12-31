@@ -1,0 +1,4 @@
+Flush the tables (remove all firewall rules and reset no. of packets captured) using flush.sh
+logpkts.sh - used for logging packet information (/var/log dir)
+display.sh - display filter and nat table
+

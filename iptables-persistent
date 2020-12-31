@@ -1,0 +1,3 @@
+#To save iptables rules
+
+sudo invoke-rc.d iptables-persistent save
